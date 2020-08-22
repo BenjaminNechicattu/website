@@ -1,0 +1,538 @@
+.mediaViewInfo {
+	--web-view-name: index;
+	--web-view-id: index;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: index;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#index {
+	position: absolute;
+	width: 1920px;
+	height: 2178px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: index;
+	--web-view-id: index;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#Background_Objects {
+	opacity: 0.06;
+	position: absolute;
+	width: 2367.213px;
+	height: 1247.182px;
+	left: 15px;
+	top: 796.522px;
+	overflow: visible;
+}
+#Group_2 {
+	transform: translate(-15px, -796.522px) matrix(1,0,0,1,1599,903.0003) rotate(18deg);
+	transform-origin: center;
+	position: absolute;
+	width: 746px;
+	height: 359px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Path_1 {
+	fill: rgba(32,114,161,1);
+}
+.Path_1 {
+	overflow: visible;
+	position: absolute;
+	width: 815.172px;
+	height: 555.788px;
+	left: 5.253px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_2 {
+	fill: rgba(0,126,198,1);
+}
+.Path_2 {
+	overflow: visible;
+	position: absolute;
+	width: 815.172px;
+	height: 555.788px;
+	left: 0px;
+	top: 16.168px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_1 {
+	position: absolute;
+	width: 746px;
+	height: 359px;
+	left: 0px;
+	top: 30.478px;
+	overflow: visible;
+}
+#Path_1_l {
+	fill: rgba(31,94,88,1);
+}
+.Path_1_l {
+	overflow: visible;
+	position: absolute;
+	width: 746px;
+	height: 342px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_2_m {
+	fill: rgba(153,191,187,1);
+}
+.Path_2_m {
+	overflow: visible;
+	position: absolute;
+	width: 746px;
+	height: 342px;
+	left: 0px;
+	top: 17px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_3 {
+	position: absolute;
+	width: 606px;
+	height: 372px;
+	left: 746px;
+	top: 285.478px;
+	overflow: visible;
+}
+#Path_3 {
+	fill: rgba(155,137,194,1);
+}
+.Path_3 {
+	overflow: visible;
+	position: absolute;
+	width: 586px;
+	height: 360px;
+	left: 0px;
+	top: 12px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_4 {
+	fill: rgba(208,198,229,1);
+}
+.Path_4 {
+	overflow: visible;
+	position: absolute;
+	width: 586px;
+	height: 360px;
+	left: 20px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_4 {
+	transform: translate(-15px, -796.522px) matrix(1,0,0,1,239.0001,1256.0005) rotate(14deg);
+	transform-origin: center;
+	position: absolute;
+	width: 606px;
+	height: 372px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Path_3_r {
+	fill: rgba(129,183,191,1);
+}
+.Path_3_r {
+	overflow: visible;
+	position: absolute;
+	width: 655.685px;
+	height: 491.073px;
+	left: 0px;
+	top: 11.644px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_4_s {
+	fill: rgba(149,210,220,1);
+}
+.Path_4_s {
+	overflow: visible;
+	position: absolute;
+	width: 655.685px;
+	height: 491.073px;
+	left: 22.309px;
+	top: 4.838px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_5 {
+	transform: translate(-15px, -796.522px) matrix(1,0,0,1,1555.2811,1305.5921) rotate(240deg);
+	transform-origin: center;
+	position: absolute;
+	width: 440.858px;
+	height: 285.223px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Path_3_u {
+	fill: rgba(91,58,158,1);
+}
+.Path_3_u {
+	overflow: visible;
+	position: absolute;
+	width: 447.047px;
+	height: 501.085px;
+	left: 20.392px;
+	top: 17.32px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_4_v {
+	fill: rgba(173,149,220,1);
+}
+.Path_4_v {
+	overflow: visible;
+	position: absolute;
+	width: 447.047px;
+	height: 501.085px;
+	left: 0px;
+	top: 6px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_6 {
+	transform: translate(-15px, -796.522px) matrix(1,0,0,1,1285.2811,1639.592) rotate(-52deg);
+	transform-origin: center;
+	position: absolute;
+	width: 440.858px;
+	height: 285.223px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Path_3_x {
+	fill: rgba(122,197,155,1);
+}
+.Path_3_x {
+	overflow: visible;
+	position: absolute;
+	width: 474.408px;
+	height: 499.853px;
+	left: 9.456px;
+	top: 23.148px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_4_y {
+	fill: rgba(149,220,180,1);
+}
+.Path_4_y {
+	overflow: visible;
+	position: absolute;
+	width: 474.408px;
+	height: 499.853px;
+	left: 12.313px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Header_Image {
+	filter: drop-shadow(0px 20px 37px rgba(0, 0, 0, 0.388));
+	position: fixed;
+	width: 1920px;
+	height: 717px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Home {
+	position: absolute;
+	width: 1088px;
+	height: 517px;
+	left: 416px;
+	top: 540px;
+	overflow: visible;
+}
+#Home_Rectangle {
+	fill: rgba(255,255,255,1);
+}
+.Home_Rectangle {
+	filter: drop-shadow(0px 3px 28px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 1172px;
+	height: 509px;
+	left: 0px;
+	top: 92px;
+}
+#Photo2 {
+	filter: drop-shadow(0px 3px 27px rgba(16, 15, 15, 0.58));
+	position: absolute;
+	width: 268px;
+	height: 268px;
+	left: 410px;
+	top: 0px;
+	overflow: visible;
+}
+#Benjamin_G_Nechicattu {
+	left: 305px;
+	top: 281px;
+	position: absolute;
+	overflow: visible;
+	width: 479px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Gilroy;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(112,112,112,1);
+	text-transform: uppercase;
+}
+#Discover_More {
+	left: 463px;
+	top: 416px;
+	position: absolute;
+	overflow: visible;
+	width: 163px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Caveat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 33px;
+	color: rgba(90,90,90,1);
+}
+#Science__Tech_Enthusiast {
+	left: 424px;
+	top: 342px;
+	position: absolute;
+	overflow: visible;
+	width: 241px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 21px;
+	color: rgba(112,112,112,1);
+}
+#Benjamin_G_Nechicattu_top_logo {
+	left: 156px;
+	top: 107px;
+	position: fixed;
+	overflow: visible;
+	width: 383px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Aerotis;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 33px;
+	color: rgba(255,255,255,1);
+}
+#Navigation_bar {
+	position: fixed;
+	width: 115px;
+	height: 159px;
+	left: 1647px;
+	top: 199px;
+	overflow: visible;
+}
+#Home_ {
+	left: 25px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 39px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(255,255,255,1);
+}
+#About_Me {
+	left: 25px;
+	top: 35px;
+	position: absolute;
+	overflow: visible;
+	width: 63px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(255,255,255,1);
+}
+#Skills {
+	left: 25px;
+	top: 70px;
+	position: absolute;
+	overflow: visible;
+	width: 32px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(255,255,255,1);
+}
+#Projects {
+	left: 25px;
+	top: 140px;
+	position: absolute;
+	overflow: visible;
+	width: 50px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(255,255,255,1);
+}
+#Achievements_ {
+	left: 25px;
+	top: 105px;
+	position: absolute;
+	overflow: visible;
+	width: 91px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(255,255,255,1);
+}
+#navigation {
+	position: absolute;
+	width: 8px;
+	height: 149px;
+	left: 0px;
+	top: 6px;
+	overflow: visible;
+}
+#Line_1 {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_1 {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 140px;
+	left: 3.5px;
+	top: 3.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Ellipse_1 {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_1 {
+	position: absolute;
+	overflow: visible;
+	width: 8px;
+	height: 8px;
+	left: 0px;
+	top: 0px;
+}
+#Ellipse_2 {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2 {
+	position: absolute;
+	overflow: visible;
+	width: 8px;
+	height: 8px;
+	left: 0px;
+	top: 35px;
+}
+#Ellipse_3 {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_3 {
+	position: absolute;
+	overflow: visible;
+	width: 8px;
+	height: 9px;
+	left: 0px;
+	top: 69px;
+}
+#Ellipse_4 {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_4 {
+	position: absolute;
+	overflow: visible;
+	width: 8px;
+	height: 9px;
+	left: 0px;
+	top: 107px;
+}
+#Ellipse_5 {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_5 {
+	position: absolute;
+	overflow: visible;
+	width: 8px;
+	height: 9px;
+	left: 0px;
+	top: 140px;
+}
+#About_Me_bk {
+	position: absolute;
+	width: 1088px;
+	height: 682px;
+	left: 416px;
+	top: 1190px;
+	overflow: visible;
+}
+#Top_content {
+	fill: rgba(255,255,255,1);
+}
+.Top_content {
+	filter: drop-shadow(0px 3px 28px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 1172px;
+	height: 766px;
+	left: 0px;
+	top: 0px;
+}
+#Science__Tech_Enthusiast_bm {
+	left: 424px;
+	top: 180px;
+	position: absolute;
+	overflow: visible;
+	width: 241px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 21px;
+	color: rgba(112,112,112,1);
+}
+#About_Me_ {
+	left: 437px;
+	top: 89px;
+	position: absolute;
+	overflow: visible;
+	width: 215px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Gilroy;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(112,112,112,1);
+	text-transform: uppercase;
+}
